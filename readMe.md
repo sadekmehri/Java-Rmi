@@ -151,7 +151,7 @@ The default Java security policy does not allow all the network operations neede
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/kylelobo/">
+     href="https://github.com/sadekmehri/">
     <span property="dct:title">Sadok Mehri</span></a>
   has waived all copyright and related or neighboring rights to this project.
 </p>
